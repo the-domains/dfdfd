@@ -1,0 +1,14 @@
+layout_spectrum: 0.26460165111348033
+typography_spectrum: 0.7588809034787118
+color:
+  brandStrength: 0.6902906075119972
+  lightness: 0.9048913926817477
+  saturation: 0.11696116626262665
+  rhythmicContrast: 0.012833816930651665
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: dfdfd
